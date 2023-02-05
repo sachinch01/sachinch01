@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sachinch01
 - 👀 I’m interested in Data Analysis, Big Data, Machine Learning & AWS
 - 🌱 I’m currently learning Machine Learning & AWS
-- 📫 You can reach out to me on sachin.ch1396@gmail.com
+- 📫 You can reach out to me on sachinsunilc@gmail.com
 
 <!---
 sachinch01/sachinch01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
